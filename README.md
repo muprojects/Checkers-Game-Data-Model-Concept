@@ -1,0 +1,1 @@
+# Checkers-Game-Data-Model-Concept
